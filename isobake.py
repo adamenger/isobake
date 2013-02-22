@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import subprocess
 import os, sys
 from sys import argv
